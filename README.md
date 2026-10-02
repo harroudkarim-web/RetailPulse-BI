@@ -262,7 +262,7 @@ Advanced SQL concepts used include:
 
 \## Power BI Dashboard
 
-
+![RetailPulse Executive Dashboard](screenshots/dashboard-overview.png)
 
 An interactive executive dashboard was created in Power BI.
 
