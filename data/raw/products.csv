@@ -1,0 +1,31 @@
+﻿product_id;product_name;category;standard_cost;list_price
+1;Laptop Pro;Computers;91.0;148.12
+2;Laptop Air;Computers;699.0;1436.98
+3;Gaming Laptop;Computers;88.0;112.29
+4;Mini PC;Computers;631.0;1372.51
+5;Workstation;Computers;665.0;1317.89
+6;Wireless Mouse;Accessories;687.0;900.43
+7;Mechanical Keyboard;Accessories;757.0;1179.57
+8;USB-C Hub;Accessories;411.0;873.5
+9;Webcam HD;Accessories;706.0;1425.57
+10;Laptop Stand;Accessories;583.0;951.62
+11;Headset Pro;Accessories;412.0;719.22
+12;Monitor 24;SMARTPHONES;213.0;265.2
+13;Monitor 27;Monitors;774.0;1412.01
+14;Monitor 32;Monitors;746.0;1457.12
+15;Ultrawide Monitor;Monitors;634.0;1375.85
+16;Smartphone X;Smartphones;326.0;681.66
+17;Smartphone Lite;Smartphones;613.0;845.04
+18;Smartphone Pro;Smartphones;703.0;1164.21
+19;Smartphone Max;Smartphones;454.0;607.17
+20;Tablet 10;Tablets;50.0;93.84
+21;Tablet Mini;Tablets;831.0;1800.66
+22;Tablet Pro;Tablets;673.0;1017.81
+23;SSD 1TB;storage;816.0;1353.7
+24;SSD 2TB;Storage;340.0;466.91
+25;External HDD 2TB;Accessories ;423.0;704.39
+26;USB Drive 128GB;Storage;127.0;179.25
+27;WiFi Router;Networking;513.0;834.08
+28;Mesh WiFi Kit;Networking;606.0;1229.78
+29;Ethernet Switch;Networking;571.0;855.71
+30;USB WiFi Adapter;Storage  ;633.0;1284.3
